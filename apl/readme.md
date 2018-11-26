@@ -6,11 +6,11 @@ Dr. W gave me an old program of his... Can you tell me what it does?
 
 (Difficulty: Easy)
 
-(apl.txt)[APL.txt]
+[apl.txt](APL.txt)
 
 To solve this challenge, some important context is knowing that APL is a fairly
 dated programming language. A quick search brought me to 
-(this APL interpreter)[https://tryapl.org/]
+[this APL interpreter](https://tryapl.org/)
 
 I pasted the context of the text file like so:
 
