@@ -31,7 +31,7 @@ print ''.join([chr(int(x)) for x in s.split()])
 
 which yields this:
 
-TUCTF{wRiTe_OnLy_Is_HaRd_To_ReAd}
+`TUCTF{wRiTe_OnLy_Is_HaRd_To_ReAd}`
 
 
 
