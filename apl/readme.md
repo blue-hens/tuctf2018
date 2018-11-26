@@ -8,6 +8,7 @@ Dr. W gave me an old program of his... Can you tell me what it does?
 
 [apl.txt](APL.txt)
 
+### solution:
 To solve this challenge, some important context is knowing that APL is a fairly
 dated programming language. A quick search brought me to 
 [this APL interpreter](https://tryapl.org/)
